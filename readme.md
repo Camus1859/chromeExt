@@ -29,3 +29,6 @@
 #
 ### This repo was originally forked from..
 ### https://github.com/GoogleChrome/chrome-extensions-samples
+
+#### Please see
+### https://github.com/GoogleChrome/chrome-extensions-samples/blob/main/LICENSE
